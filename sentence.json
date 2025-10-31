@@ -1,0 +1,96 @@
+{
+  "topicId": "level1_talking_about_yourself",
+  "title": "Talking About Yourself",
+  "description": "Learn to introduce yourself and share personal details confidently.",
+  "level": "beginner",
+  "layout": "card",
+  "sections": [
+    {
+      "sectionId": "self_intro",
+      "title": "নিজের পরিচয় দেওয়া",
+      "layout": "card",
+      "items": [
+        {
+          "itemId": "ty1",
+          "contentType": "phrase",
+          "payload": {
+            "en": "Hi, I’m Junayed. Nice to meet you!",
+            "bn": "হাই, আমি জুনায়েদ। তোমার সাথে দেখা হয়ে ভালো লাগলো!",
+            "grammar_note": "Simple Present",
+            "usage": "Use to introduce yourself for the first time.",
+            "audio": "media/audio/hi_im_junayed.mp3"
+          },
+          "meta": {
+            "emotion": "friendly",
+            "difficulty": 1,
+            "tags": ["self_intro", "greeting"]
+          }
+        },
+        {
+          "itemId": "ty2",
+          "contentType": "phrase",
+          "payload": {
+            "en": "I’m from Bangladesh. It’s a beautiful country.",
+            "bn": "আমি বাংলাদেশ থেকে এসেছি। এটা একটি সুন্দর দেশ।",
+            "grammar_note": "Simple Present",
+            "usage": "Use to say where you’re from.",
+            "audio": "media/audio/im_from_bangladesh.mp3"
+          },
+          "meta": {
+            "emotion": "neutral",
+            "difficulty": 1,
+            "tags": ["introduction", "country"]
+          }
+        },
+        {
+          "itemId": "ty3",
+          "contentType": "phrase",
+          "payload": {
+            "en": "I’m currently studying in college.",
+            "bn": "আমি বর্তমানে কলেজে পড়াশোনা করছি।",
+            "grammar_note": "Present Continuous",
+            "usage": "Use to describe your current situation.",
+            "audio": "media/audio/im_studying_college.mp3"
+          },
+          "meta": {
+            "emotion": "neutral",
+            "difficulty": 1,
+            "tags": ["education", "personal"]
+          }
+        },
+        {
+          "itemId": "ty4",
+          "contentType": "phrase",
+          "payload": {
+            "en": "In my free time, I love listening to music.",
+            "bn": "ফাঁকা সময়ে আমি গান শুনতে ভালোবাসি।",
+            "grammar_note": "Simple Present",
+            "usage": "Use to talk about your hobbies.",
+            "audio": "media/audio/i_love_music.mp3"
+          },
+          "meta": {
+            "emotion": "happy",
+            "difficulty": 1,
+            "tags": ["hobby", "daily"]
+          }
+        },
+        {
+          "itemId": "ty5",
+          "contentType": "phrase",
+          "payload": {
+            "en": "People say I’m an honest person.",
+            "bn": "মানুষ বলে আমি একজন সৎ মানুষ।",
+            "grammar_note": "Reported Speech",
+            "usage": "Use to talk about your personality.",
+            "audio": "media/audio/people_say_im_honest.mp3"
+          },
+          "meta": {
+            "emotion": "proud",
+            "difficulty": 2,
+            "tags": ["personality", "self"]
+          }
+        }
+      ]
+    }
+  ]
+}
